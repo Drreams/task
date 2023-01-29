@@ -12,6 +12,7 @@ namespace Tasks
 		private readonly IConsole console;
 
 		private long lastId = 0;
+		//affaefaefpafaefzefzef zfzef
 
 		public static void Main(string[] args)
 		{
